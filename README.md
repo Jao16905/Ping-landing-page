@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Jao16905/Ping-landing-page.git)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://ping-landing-page-jao16905.vercel.app/)
 
 ## My process
 
